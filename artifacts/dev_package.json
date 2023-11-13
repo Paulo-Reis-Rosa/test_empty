@@ -1,0 +1,48 @@
+{
+	"id": "b876e35f-5e42-42b4-a7af-1f4848119274",
+	"createdAt": "2023-11-13T11:50:41.555Z",
+	"createdBy": "prosa",
+	"git": {
+		"remote": "https://github.com/Paulo-Reis-Rosa/test_empty"
+	},
+	"name": "Test Git",
+	"description": null,
+	"ver": "23.11.13.133",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "f2cb887e-5fde-4c2e-b03f-3e5dc4c1a02f",
+			"name": "test",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
