@@ -1,13 +1,13 @@
 {
-	"id": "b876e35f-5e42-42b4-a7af-1f4848119274",
-	"createdAt": "2023-11-13T11:50:41.555Z",
-	"createdBy": "prosa",
+	"id": "8c3f7926-bb8e-ee11-8925-000d3adc328d",
+	"createdAt": "2023-11-29T13:28:16.063Z",
+	"createdBy": "paulo.reis.rosa@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/Paulo-Reis-Rosa/test_empty"
 	},
-	"name": "Test Git",
-	"description": null,
-	"ver": "23.11.13.133",
+	"name": "package_test",
+	"description": "A package test",
+	"ver": "23.11.29.1329",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -24,15 +24,15 @@
 	"api_group": [],
 	"tile": [],
 	"category": [],
-	"launchpad": [
+	"launchpad": [],
+	"certificates": [],
+	"role": [
 		{
-			"id": "f2cb887e-5fde-4c2e-b03f-3e5dc4c1a02f",
-			"name": "test",
-			"description": null
+			"id": "320f3286-bb8e-ee11-8925-000d3adc328d",
+			"name": "test_role4git",
+			"description": "Test for Git Import"
 		}
 	],
-	"certificates": [],
-	"role": [],
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
@@ -41,7 +41,6 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []

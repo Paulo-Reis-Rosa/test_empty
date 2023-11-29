@@ -1,0 +1,9 @@
+{
+	"id": "320f3286-bb8e-ee11-8925-000d3adc328d",
+	"createdAt": "2023-11-29T13:30:56.670Z",
+	"createdBy": "paulo.reis.rosa@neptune-software.com",
+	"name": "test_role4git",
+	"description": "Test for Git Import",
+	"ver": "23.11.29.1331",
+	"package": "8c3f7926-bb8e-ee11-8925-000d3adc328d"
+}
